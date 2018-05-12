@@ -1,0 +1,13 @@
+Gocode pkg: "github.com/ravi"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.9/libexec/pkg/darwin_amd64:/Users/ravi-cdl/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.9/libexec", GOPATH:"/Users/ravi-cdl/go", InstallSuffix:""}
+Gocode pkg: "github.com/hartfordfive/protologbeat/protolog"
+Gocode pkg: "github.com/ravi"
+Gocode pkg: "github.com/hartfordfive/protologbeat/protolog"
+Gocode pkg: "github.com/ravi"
+Gocode pkg: "github.com/hartfordfive/protologbeat/protolog"
+Gocode pkg: "github.com/ravi"
+Gocode pkg: "github.com/hartfordfive/protologbeat/protolog"
+Gocode pkg: "github.com/ravi"
+Gocode pkg: "github.com/hartfordfive/protologbeat/protolog"
+Gocode pkg: "github.com/hartfordfive/protologbeat/protolog"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.9/libexec/pkg/darwin_amd64:/Users/ravi-cdl/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.9/libexec", GOPATH:"/Users/ravi-cdl/go", InstallSuffix:""}

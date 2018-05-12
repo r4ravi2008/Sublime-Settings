@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"GitGutter",
+		"GoSublime",
+		"Increment Selection",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter-bandit",
+		"SublimeREPL"
+	]
+}
